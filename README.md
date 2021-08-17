@@ -14,3 +14,4 @@ https://www.kaggle.com/prasunroy/natural-images
 https://www.kaggle.com/prasunroy/natural-images
 
 ## Step By Step
+https://github.com/DerekLW6/gcp-azure-managed-ml-guides/blob/main/managed-ml-walkthrough.pptx
