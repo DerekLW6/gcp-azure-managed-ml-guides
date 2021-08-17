@@ -1,5 +1,5 @@
 # GCP and Azure Managed ML Guides
-Using Azure ML Studio, Custom Vision, GCP Tables, and Vision
+Using Azure ML Studio, Custom Vision, GCP Tables, and Vision, as part of a comparison project.
 
 ## GCP Video
 https://www.loom.com/share/00b5088466ac43c586d6760558d21113
